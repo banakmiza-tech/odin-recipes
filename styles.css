@@ -1,3 +1,22 @@
 .background {
     background-color: burlywood;
+    width: 800px;
+    margin: 60px;
+    padding: 30px;
+    border-radius: 5%;
+}
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.title {
+    background-color: antiquewhite;
+    padding: 5px;
+    width: 200px;
+    border-bottom-right-radius: 35%;
+    border-top-right-radius: 50%;
+}
+.menu {
+    color: white;
+    font-size: 36px;
+    text-decoration: none;
 }
